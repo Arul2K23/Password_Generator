@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arul2K23
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...BE.CSE
+- 🌱 I’m currently pursuing ...BE.CSE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...2005arulkar@gmail.com
 
